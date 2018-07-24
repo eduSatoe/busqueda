@@ -1,0 +1,8 @@
+https://duckduckgo.com/?q={{query}}
+https://www.google.es/search?q={{query}}
+https://www.baidu.com/s?wd={{query}}
+https://www.yandex.ru/search/?text={{query}}
+https://millionshort.com/search?keywords={{query}}&remove=0&shopping=&country=&chat=
+https://pdffetch.com/search/?f={{query}}&m=is
+https://www.google.es/search?&q=site%3Aonedrive.live.com+%22{{query}}%22
+https://www.google.es/search?&q=site%3Adrive.google.com+%22{{query}}%22

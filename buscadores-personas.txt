@@ -1,0 +1,2 @@
+https://pipl.com/search/protect/?q={{query}}
+https://www.google.es/search?q=site%3Ahttps%3A%2F%2Fabout.me+{{query}}
